@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Redux Practice
+
+This was just me trying to get the hang of Redux, in terms of learning how to build slices for a feature. Pretty basic, just a todo list. 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
 
